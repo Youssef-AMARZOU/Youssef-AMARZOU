@@ -8,4 +8,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/datasets/amarzouyoussef)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ysfmo98)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-AMARZOU&show_icons=true&theme=flat&hide_border=true)](https://github.com/Youssef-AMARZOU)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-AMARZOU&show_icons=true&theme=tokyonight&hide_border=true)
