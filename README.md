@@ -30,9 +30,14 @@
 
 ### Activity Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Youssef-AMARZOU&show_icons=true&theme=green&bg_color=0d1117&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" width="48%">
+<a href="https://github.com/Youssef-AMARZOU">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-AMARZOU&show_icons=true&theme=green&bg_color=0d1117&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-AMARZOU&theme=green&background=0d1117&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9">
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-AMARZOU&theme=green&background=0d1117&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" width="48%">
+<a href="https://github.com/Youssef-AMARZOU">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-AMARZOU&layout=compact&theme=green&bg_color=0d1117&hide_border=true&title_color=3fb950&text_color=c9d1d9&langs_count=8&include_all_repos=true&show_owner=true">
+</a>
 
 </div>
 
@@ -42,12 +47,7 @@
 
 ### Contribution Activity
 
-| Metric | Count |
-|--------|-------|
-| Commits | <img src="https://img.shields.io/badge/Commits-Active-3fb950?style=flat-square" alt="Commits"> |
-| Pull Requests | <img src="https://img.shields.io/badge/PRs-Merged-3fb950?style=flat-square" alt="PRs"> |
-| Issues | <img src="https://img.shields.io/badge/Issues-Opened-3fb950?style=flat-square" alt="Issues"> |
-| Repositories | <img src="https://img.shields.io/badge/Repos-17-3fb950?style=flat-square" alt="Repos"> |
+[![Contribution Graph](https://ghchart.rshah.org/3fb950/Youssef-AMARZOU)](https://github.com/Youssef-AMARZOU)
 
 </div>
 
@@ -55,13 +55,9 @@
 
 <div align="center">
 
-### Achievements
+### Activity Graph
 
-| Platform | Achievements |
-|----------|--------------|
-| GitHub | <img src="https://img.shields.io/badge/-Quickdraw-B15430?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Pull%20Shark-207752?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Star%20Voyager-0077B5?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-YOLO-9B59B6?style=flat-square&logo=github&logoColor=white"> |
-| Kaggle | <img src="https://img.shields.io/badge/-Notebook%20Creator-20BEFF?style=flat-square&logo=kaggle&logoColor=white"> <img src="https://img.shields.io/badge/-Dataset%20Uploader-20BEFF?style=flat-square&logo=kaggle&logoColor=white"> <img src="https://img.shields.io/badge/-R%20Programmer-276DC3?style=flat-square&logo=r&logoColor=white"> |
-| GitLab | <img src="https://img.shields.io/badge/-Beginner-428FCE?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/-Contributor-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-AMARZOU&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=16423b&hide_border=true" width="95%">
 
 </div>
 
@@ -69,11 +65,11 @@
 
 <div align="center">
 
-### Highlights
+### Trophies
 
-<img src="https://img.shields.io/badge/Status-AI%20Engineer-3fb950?style=for-the-badge" alt="AI Engineer">
-<img src="https://img.shields.io/badge/Focus-Industrial%20Automation-3fb950?style=for-the-badge" alt="Industrial Automation">
-<img src="https://img.shields.io/badge/Specialty-Real--time%20Systems-3fb950?style=for-the-badge" alt="Real-time Systems">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-AMARZOU&theme=greenhub&bg_color=0d1117&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%">
+</a>
 
 </div>
 
@@ -81,30 +77,31 @@
 
 <div align="center">
 
-### Stats
+### GitHub Achievements
 
-[![GitHub followers](https://img.shields.io/github/followers/Youssef-AMARZOU?style=flat-square&color=3fb950&label=Followers)](https://github.com/Youssef-AMARZOU?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Youssef-AMARZOU?style=flat-square&color=3fb950&label=Stars)](https://github.com/Youssef-AMARZOU?tab=stars)
+<img src="https://github-profile-trophy.vercel.app/?username=Youssef-AMARZOU&theme=greenhub&bg_color=0d1117&no-frame=true&no-bg=true&column=7">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Youssef-AMARZOU&theme=green&background=0d1117&hide_border=true&ring=3fb950&fire=3fb950)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### Recent Activity
+
+<!--START_ACTIVITY_BLOCK-->
+<!--END_ACTIVITY_BLOCK-->
+
+</div>
+
+---
+
+<div align="center">
+
+### Profile Views
+
 [![Profile views](https://komarev.com/ghpvc/?username=Youssef-AMARZOU&color=3fb950&style=flat-square)](https://komarev.com/ghpvc/?username=Youssef-AMARZOU)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-AMARZOU&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=3fb950&hide_border=true" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
-### Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-AMARZOU&layout=compact&theme=green&bg_color=0d1117&hide_border=true&title_color=3fb950&text_color=c9d1d9" width="50%">
-
-</div>
-
----
-
-<div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/3fb950/Youssef-AMARZOU)
 
 </div>
