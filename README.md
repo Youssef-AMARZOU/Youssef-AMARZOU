@@ -102,18 +102,6 @@
 
 <div align="center">
 
-### GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-AMARZOU&theme=greenhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:16423b,100:0d1117&height=100&section=footer" width="100%">
 
 </div>
