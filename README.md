@@ -102,6 +102,45 @@
 
 <div align="center">
 
+### GitHub Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-AMARZOU&theme=greenhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Recently worked with
+
+<a href="https://github.com/Youssef-AMARZOU">
+  <img src="https://github-work-stats.vercel.app/github/repos?username=Youssef-AMARZOU&type=star&theme=green&bg_color=0d1117&border_color=3fb950" width="48%">
+</a>
+<a href="https://github.com/Youssef-AMARZOU">
+  <img src="https://github-work-stats.vercel.app/github/repos?username=Youssef-AMARZOU&type=fork&theme=green&bg_color=0d1117&border_color=3fb950" width="48%">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Support
+
+<a href="https://www.buymeacoffee.com/youssef" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:16423b,100:0d1117&height=100&section=footer" width="100%">
 
 </div>
