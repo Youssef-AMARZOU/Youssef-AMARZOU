@@ -67,7 +67,7 @@
 
 ### Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-AMARZOU&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=16423b&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-AMARZOU&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=16423b&hide_border=true&t=1" width="95%">
 
 </div>
 
