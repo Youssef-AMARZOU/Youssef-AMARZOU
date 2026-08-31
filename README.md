@@ -26,6 +26,16 @@
 
 <div align="center">
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Youssef-AMARZOU/Youssef-AMARZOU/output/github-snake-dark.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
 ### Organizations
 
 [<img src="https://img.shields.io/badge/-Youssef--AMARZOU-181717?style=flat-square&logo=github&logoColor=white" alt="Personal">](https://github.com/Youssef-AMARZOU)
