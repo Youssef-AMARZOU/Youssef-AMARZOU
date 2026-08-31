@@ -26,6 +26,16 @@
 
 <div align="center">
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Youssef-AMARZOU/Youssef-AMARZOU/output/github-snake-dark.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
 ### Organizations
 
 [<img src="https://img.shields.io/badge/-Youssef--AMARZOU-181717?style=flat-square&logo=github&logoColor=white" alt="Personal">](https://github.com/Youssef-AMARZOU)
@@ -65,16 +75,6 @@
 
 <div align="center">
 
-### Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-AMARZOU&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=16423b&hide_border=true&t=1" width="95%">
-
-</div>
-
----
-
-<div align="center">
-
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -85,6 +85,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 
 </div>
 
